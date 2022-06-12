@@ -51,8 +51,8 @@ version used - "react-router-dom": "^5.2.0",
 ## Gihthub API
 
 - [Root Endpoint](https://api.github.com)
-- [Get User](https://api.github.com/users/wesbos)
-- [Repos](https://api.github.com/users/john-smilga/repos?per_page=100)
+- [Get User](https://api.github.com/users/coderasraf)
+- [Repos](https://api.github.com/users/coderashraf/repos?per_page=100)
 - [Followers](https://api.github.com/users/john-smilga/followers)
 - [Rate Limit](https://api.github.com/rate_limit)
 
