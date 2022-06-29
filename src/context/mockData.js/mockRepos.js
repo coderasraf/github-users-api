@@ -172,7 +172,7 @@ export default [
   "svn_url": "https://github.com/coderashraf/Assignment-2",
   "homepage": null,
   "size": 1,
-  "stargazers_count": 0,
+  "stargazers_count": 5,
   "watchers_count": 0,
   "language": "HTML",
   "has_issues": true,
